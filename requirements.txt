@@ -1,0 +1,3 @@
+paddle
+numpy
+cv2
