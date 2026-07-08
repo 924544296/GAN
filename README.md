@@ -1,1 +1,1 @@
-# GANs
+# GenerativeModel
